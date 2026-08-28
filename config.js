@@ -1,0 +1,1 @@
+window.REFS_CONFIG={supabaseUrl:"PASTE_NEW_SUPABASE_PROJECT_URL_HERE",supabaseAnonKey:"PASTE_NEW_SUPABASE_PUBLISHABLE_KEY_HERE",creatorEmail:"scott@cvsoccer.club",emailNotificationUrl:"PASTE_NEW_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE"};
