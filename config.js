@@ -1,1 +1,1 @@
-window.REFS_CONFIG={supabaseUrl:"https://agekukhqjvgmbypgkaqn.supabase.co",supabaseAnonKey:"sb_publishable_Xl1YxDn-jqwHCBfvuQFOgQ_ihcdHIzi",creatorEmail:"scott@cvsoccer.club",emailNotificationUrl:"PASTE_NEW_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE"};
+window.REFS_CONFIG={supabaseUrl:"https://agekukhqjvgmbypgkaqn.supabase.co",supabaseAnonKey:"sb_publishable_Xl1YxDn-jqwHCBfvuQFOgQ_ihcdHIzi",creatorEmail:"scott@cvsoccer.club",emailNotificationUrl:"https://script.google.com/macros/s/AKfycbwuTc_OOGKld63SWw6cJM8qE1Dya60SkPhm0adZa-qmOuFZ7CkF-KgzSi2utBWH2qBoDA/exec"};
